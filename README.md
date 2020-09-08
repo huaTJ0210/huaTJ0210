@@ -6,7 +6,7 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Objective-C-informational?style=flat&logo=objective-c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Objective--C-Objective--C-green)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
